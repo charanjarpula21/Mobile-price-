@@ -1,2 +1,2 @@
 # Mobile-price-
-mobile price pediction using ML
+Mobile Price Classification using Machine Learning Techniques
